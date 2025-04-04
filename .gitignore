@@ -1,3 +1,10 @@
+# project specific
+start_jupyter_lab.bat
+Scripts/
+etc/
+pyvenv.cfg
+share/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
