@@ -4,6 +4,7 @@ Scripts/
 etc/
 pyvenv.cfg
 share/
+handson-ml3/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
