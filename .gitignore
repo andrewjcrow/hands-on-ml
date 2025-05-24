@@ -5,6 +5,8 @@ etc/
 pyvenv.cfg
 share/
 handson-ml3/
+Textbook/Chapter 10/my*
+Textbook/Chapter 2/my_california_housing_model.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
